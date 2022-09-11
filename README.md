@@ -1,4 +1,3 @@
-<h2>⚠️ Repository is no longer maintained ⚠️</h2>
 <h2 align="center">
   <br>
   <a href="https://github.com/botallen/Kvijay.repo"><img src="Kvijay.repo/icon2.png" height="60" width="60"></a>
@@ -18,7 +17,7 @@
   
   <!-- Downloads -->
   <a href="https://github.com/Kvijay199428/repo.jiotv.git">
-    <img src="https://img.shields.io/github/downloads/botallen/repository.botallen/total?style=for-the-badge&logo=kodi&color=17B2E7">
+    <img src="https://github.com/Kvijay199428/kodi.jiotv/blob/main/resources/icon.png">
   </a>
   
  </p>
