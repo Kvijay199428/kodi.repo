@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <addons>
-<addon id="repository.botallen" name="BotAllen Repository" version="2.0.0" provider-name="botallen">
-    <extension point="xbmc.addon.repository" name="BotAllen Repository">
-        <dir minversion="18.0" maxversion="18.9">
+<addon id="repo.jiotv" name="Kvijay Repository" version="2.0.0" provider-name="Kvijay">
+    <extension point="xbmc.addon.repository" name="Kvijay Repo">
+<!--        <dir minversion="18.0" maxversion="18.9">
             <info compressed="false">https://raw.githubusercontent.com/botallen/repository.botallen/v1.0.0/addons.xml</info>
             <checksum>https://raw.githubusercontent.com/botallen/repository.botallen/v1.0.0/addons.xml.md5</checksum>
             <datadir zip="true">https://raw.githubusercontent.com/botallen/repository.botallen/v1.0.0/</datadir>
-        </dir>
+        </dir>	-->
         <dir minversion="19.0">
-            <info compressed="true">https://raw.githubusercontent.com/botallen/repository.botallen/v2.0.0/addons.xml.gz</info>
-            <checksum>https://raw.githubusercontent.com/botallen/repository.botallen/v2.0.0/addons.xml.gz.md5</checksum>
-            <datadir zip="true">https://botallen.com/dl/</datadir>
+            <info compressed="true">https://raw.githubusercontent.com/Kvijay199428/repo.jiotv/main/addons.xml.gz</info>
+            <checksum>https://raw.githubusercontent.com/Kvijay199428/repo.jiotv/main/addons.xml.gz.md5</checksum>
+            <datadir zip="true">https://github.com/Kvijay199428/repo.jiotv/archive/refs/heads/main.zip</datadir>
         </dir>
     </extension>
     <extension point="xbmc.addon.metadata">
-        <summary>BotAllen Repository for Kodi</summary>
+        <summary>Kvijay Repo for Kodi</summary>
         <description>A Repository for Streaming Add-ons of Indian OTT Providers</description>
         <platform>all</platform>
         <assets>
@@ -24,7 +24,7 @@
         </assets>
     </extension>
 </addon>
-
+<!--
 <addon id="plugin.video.botallen.hotstar" name="Disney+ Hotstar" provider-name="botallen" version="1.1.1">
     <requires>
         <import addon="xbmc.python" version="3.0.0"/>
@@ -55,8 +55,8 @@
         <reuselanguageinvoker>true</reuselanguageinvoker>
     </extension>
 </addon>
-
-<addon id="plugin.video.jiotv" name="JioTV" version="2.3.0" provider-name="botallen">
+-->
+<addon id="plugin.video.jiotv" name="JioTV" version="2.3.0" provider-name="Kvijay">
     <requires>
         <import addon="xbmc.python" version="3.0.0"/>
         <import addon="script.module.codequick" version="1.0.2"/>
@@ -74,7 +74,7 @@
         <language>en</language>
         <platform>all</platform>
         <license>MIT</license>
-        <forum>https://botallen.com/discord</forum>
+<!--        <forum>https://botallen.com/discord</forum>
         <website>https://botallen.com</website>
         <email>kodi@botallen.com</email>
         <source>https://github.com/botallen/plugin.video.jiotv</source>
@@ -105,7 +105,7 @@
 [fixed] All major issues related to playback almost solved
 [added] Categorized by Language
 [added] Filter channels by specific language in genre. (from settings)
-        </news>
+        </news>		-->
         <disclaimer>This plugin is not officially commissioned/supported by Jio. The trademark "Jio" is registered by "Reliance Corporate IT Park Limited (RCITPL)"</disclaimer>
         <assets>
             <icon>resources/icon.png</icon>
