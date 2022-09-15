@@ -17,9 +17,9 @@
         <description>A Repository for Streaming Add-ons of Indian OTT Providers</description>
         <platform>all</platform>
         <assets>
-            <icon>icon.png</icon>
-            <fanart>fanart.jpg</fanart>
-            <clearlogo>icon.png</clearlogo>
+            <icon>resources/icon.png</icon>
+            <fanart>resources/fanart.jpg</fanart>
+            <clearlogo>resources/icon2.png</clearlogo>
         </assets>
     </extension>
 </addon>
