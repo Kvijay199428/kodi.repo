@@ -1,6 +1,6 @@
 <h2 align="center">
   <br>
-  <a href="https://github.com/Kvijay199428/kodi.repo.jiotv"><img src="Kvijay.repo/icon2.png" height="60" width="60"></a>
+  <a href="https://github.com/Kvijay199428/kodi.repo.jiotv"><img src="resources/icon2.png" height="60" width="60"></a>
   <br>
   Kvijay
   <br>
