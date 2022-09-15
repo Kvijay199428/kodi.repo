@@ -1,7 +1,6 @@
-<!--	<h2>⚠️ Repository is no longer maintained ⚠️</h2>	-->
 <h2 align="center">
   <br>
-  <a href="https://github.com/Kvijay199428/kodi.repo/blob/main"><img src="resources/icon2.png" height="60" width="60"></a>
+  <a href="https://github.com/Kvijay199428/kodi.repo"><img src="https://github.com/Kvijay199428/kodi.repo/blob/main/resources/icon2.png" height="60" width="60"></a>
   <br>
   Kvijay
   <br>
