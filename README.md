@@ -75,7 +75,7 @@
 
 ## Download
 
-[**Download**](https://github.com/Kvijay199428/kodi.repo.jiotv/blob/main/repo.kodi.jiotv.zip) the `.zip` file.
+[**Download**](https://raw.githubusercontent.com/Kvijay199428/kodi.repo/main/zip/kodi.repo.jiotv.zip) the `.zip` file.
 <br/>
 <br/>
 <!--
