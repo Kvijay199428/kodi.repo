@@ -1,23 +1,86 @@
+<!--	<h2>⚠️ Repository is no longer maintained ⚠️</h2>	-->
 <h2 align="center">
   <br>
-  <a href="https://github.com/botallen/Kvijay.repo"><img src="Kvijay.repo/icon2.png" height="100" width="100"></a>
+  <a href="https://github.com/Kvijay199428/kodi.repo.jiotv"><img src="Kvijay.repo/icon2.png" height="60" width="60"></a>
   <br>
   Kvijay
   <br>
 </h2>
 
 <h4 align="center">Kvijay Kodi Repository</h4>
+<!--
+<p align="center">
 
-<p align="center">  
+  <!-- Release -->
+<!--  <a href="https://github.com/botallen/repository.botallen/releases/latest">
+    <img src="https://img.shields.io/github/v/release/botallen/repository.botallen?style=for-the-badge">
+  </a>
   
   <!-- Downloads -->
-  <a href="https://github.com/Kvijay199428/repo.jiotv.git">
-    <img src="https://github.com/Kvijay199428/kodi.jiotv/blob/main/resources/icon.png" height="100" width="100">
+<!--  <a href="https://github.com/botallen/repository.botallen/releases/latest">
+    <img src="https://img.shields.io/github/downloads/botallen/repository.botallen/total?style=for-the-badge&logo=kodi&color=17B2E7">
   </a>
   
  </p>
+ <p align="center">
+  
+  <!-- License -->
+<!--  <a href="https://github.com/botallen/repository.botallen/blob/master/LICENSE">
+    <img src="https://img.shields.io/github/license/botallen/repository.botallen?style=flat-square">
+  </a>
+  
+  <!-- Open Issues -->
+<!--  <a href="https://github.com/botallen/repository.botallen/issues">
+    <img src="https://img.shields.io/github/issues/botallen/repository.botallen?style=flat-square">
+  </a>
+  
+  <!-- Last Commit -->
+<!--  <a href="https://github.com/botallen/repository.botallen/commit/master">
+    <img src="https://img.shields.io/github/last-commit/botallen/repository.botallen?style=flat-square">
+  </a>
+  
+ </p>	-->
+
 <br>
+
+<h2 align="center">Add-ons</h2>
+
+<p align="center">
+<!--  
+<span style="display: inline-block;">
+  <a href="https://github.com/botallen/plugin.video.botallen.hotstar">
+    <img src="https://raw.githubusercontent.com/botallen/plugin.video.botallen.hotstar/main/resources/icon.jpg" width="100" height="100">
+  </a>
+</span>	-->
+
+<span style="display: inline-block;">
+  <a href="https://github.com/Kvijay199428/kodi.repo.jiotv">
+    <img src="https://raw.githubusercontent.com/Kvijay199428/kodi.repo.jiotv/main/resources/icon.png" width="100" height="100">
+  </a>
+</span>
+</p>
+
+## Install
+
+<img align="right" src="media/install.gif" height=250>
+
+- Add this file source in file manager : https://github.com/Kvijay199428/
+- Click on Install From zip file
+- Select repository.botallen-2.0.0.zip
+- Done
+
+<br/>
+<br/>
+<br/>
+<br/>
+
 ## Download
 
-[**Download**](https://github.com/Kvijay199428/repo.jiotv/archive/refs/heads/main.zip) the `.zip` file.
+[**Download**](https://github.com/Kvijay199428/kodi.repo.jiotv/blob/main/repo.kodi.jiotv.zip) the `.zip` file.
 <br/>
+<br/>
+<!--
+## Support
+
+<a href="https://botallen.com/#donate" target="_blank" >https://botallen.com/#donate</a>
+-->
