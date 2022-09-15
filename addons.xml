@@ -5,7 +5,7 @@
 			<dir minversion="19.0">
 				<info compressed="true">https://raw.githubusercontent.com/Kvijay199428/kodi.repo/main/addons.xml</info>
 				<checksum>https://raw.githubusercontent.com/Kvijay199428/kodi.repo/main/addons.xml.gz.md5</checksum>
-				<datadir zip="true">https://raw.githubusercontent.com/Kvijay199428/kodi.repo/main/kodi.repo</datadir>
+				<datadir zip="true">https://raw.githubusercontent.com/Kvijay199428/kodi.repo/main/zip</datadir>
 			</dir>
 		</extension>
 		<extension point="xbmc.addon.metadata">
